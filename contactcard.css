@@ -1,0 +1,61 @@
+* {
+  padding:0;
+  margin:0;
+}
+
+p {
+  margin:10px;
+}
+
+button {
+  margin-left:240px;
+}
+.wrapper {
+  width:800px;
+  di
+}
+
+.formdiv {
+  width:400px;
+  text-align:left;
+  display: inline-block;
+}
+
+#back{
+	display: none;
+}
+
+textarea {
+  width:300px;
+  height:200px;
+  margin-left: 10px;
+}
+
+.results {
+  width:400px;
+  margin-left:400px;
+  margin-top:-350px;
+  display:inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+.contactdiv {
+  width:400px;
+  height:100px;
+  margin: 10px 0px 10px 0px;
+  border: 1px solid black;
+  display:inline-block;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.descriptiondiv {
+  width:400px;
+  height:100px;
+  margin: 10px 0px 10px 0px;
+  border: 1px solid black;
+  display:inline-block;
+  text-align: center;
+  padding-top: 10%;
+}
